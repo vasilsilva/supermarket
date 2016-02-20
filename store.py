@@ -50,7 +50,7 @@ def run():
 	while loop_condition2:
 		for y in list:
 			num = raw_input("How many/much %s do you want?") %y
-			y[num]
+			y[num] #pretty sure this is not what needs to be here, can't figure out what code I need.
 			print list
 			
 			loop_condition2= False	
